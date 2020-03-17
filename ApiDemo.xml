@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiDemo</name>
+    </assembly>
+    <members>
+        <member name="T:ApiDemo.Controllers.WeatherForecastController">
+            <summary>
+            WeatherForecast
+            </summary>
+        </member>
+        <member name="M:ApiDemo.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{ApiDemo.Controllers.WeatherForecastController})">
+            <summary>
+            WeatherForecast
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:ApiDemo.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get API Value hhhhhhh
+            </summary>
+            <remarks>This API will get the values.</remarks>
+        </member>
+    </members>
+</doc>
